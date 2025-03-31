@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: probability_distributions
+Version: 1.0.0
+Summary: A module for probability distributions and related calculations.
+Home-page: https://github.com/yourusername/probability_distributions
+Author: Munashe Mukweya
+Author-email: munashemukweya2022@gmail.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: summary
